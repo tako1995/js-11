@@ -165,3 +165,5 @@ console.log(data);
 testFunctionAsync()
 .then ((mosuliInfoJs) => console.log("mosuli informacia", mosuliInfoJs))
 .catch((error) => console.log(error));
+
+
